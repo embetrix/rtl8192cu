@@ -3,7 +3,7 @@ RTL8192CU USB Driver
 
 Realtek WLAN USB Dongle Linux driver
 
-Comaptible Linux Kernel versions: Linux Kernel versions 2.6.18~3.9
+Comaptible Linux Kernel versions: Linux Kernel versions 2.6.18~3.12+
 
 Realtek Base Version 3.4.4_4749
 
